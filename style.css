@@ -1,0 +1,10 @@
+a.pictures {
+    background: url(picture1.png);
+    display: block;
+    width: 322px ;
+    height: 349px ;
+}
+
+a.pictures:hover {
+    background: url(picture2.png);
+}
